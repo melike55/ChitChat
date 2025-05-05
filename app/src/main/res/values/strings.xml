@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="default_web_client_id">nur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tablayoutToMe">tabLayout</string>
+    <string name="viewpagerToMe">viewpager</string>
+    <string name="chatsToMe">Chats</string>
+    <string name="statusToMe">Status</string>
+    <string name="callsToMe">Calls</string>
+    <string name="title_activity_chat_detail">ChatDetailActivity</string>
+
+</resources>
